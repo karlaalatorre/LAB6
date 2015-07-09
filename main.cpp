@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     float savings=0;    //Initial Savings at start of Employment
     float year=0;       //Start at year 0
     int num=1;
-    int y;
+    
    
    
     
